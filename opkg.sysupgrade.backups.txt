@@ -5,3 +5,5 @@ https://www.google.com/search?q=export+installed+services+openwrt&rlz=1C1GGRV_en
 https://github.com/richb-hanover/OpenWrtScripts#opkgscriptsh
 
 https://github.com/richb-hanover/OpenWrtScripts/blob/master/opkgscript.sh
+
+https://forum.archive.openwrt.org/viewtopic.php?id=42739&p=1#p194478
