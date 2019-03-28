@@ -1,0 +1,7 @@
+https://forum.openwrt.org/t/script-to-list-installed-packages-for-simplifying-sysupgrade/7188/5
+
+https://www.google.com/search?q=export+installed+services+openwrt&rlz=1C1GGRV_enUS751US751&oq=export+installed+services+openwrt&aqs=chrome..69i57.12515j1j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/richb-hanover/OpenWrtScripts#opkgscriptsh
+
+https://github.com/richb-hanover/OpenWrtScripts/blob/master/opkgscript.sh
